@@ -1,6 +1,8 @@
-# **The Grammar of Thought: Does Fine-Tuning Make a Difference?**
+<p align="center">
+  <img src="@header.png" alt="The Grammar of Thought: Does Fine-Tuning Make a Difference?">
+</p>
 
-This repository contains all the resources, tools, and scripts from my blog post about exploring literary styles through stylometry and fine-tuning language models. If you're interested in analyzing writing style, training models to mimic authors, or breaking down storytelling structures, this is for you.
+This repository contains all the resources, tools, and scripts from my [blog post about exploring literary styles](https://peytoncasper.com/blog/tone-evaluation/index.html) through stylometry and fine-tuning language models. If you're interested in analyzing writing style, training models to mimic authors, or breaking down storytelling structures, this is for you.
 
 ---
 
