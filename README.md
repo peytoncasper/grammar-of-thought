@@ -166,4 +166,9 @@ Use the visualization scripts to create heatmaps, radar charts, or interactive d
 If you have ideas for improving this project or find a bug, open an issue or submit a pull request.
 
 ## **Contact**
-If you have questions or want to share your results, feel free to reach out. I’d love to hear how you’re using this project!
+If you have questions or want to share your results, feel free to reach out. I'd love to hear how you're using this project!
+
+## **Connect With Me**
+- 🐦 Twitter: [@peytoncasper](https://twitter.com/peytoncasper)
+- 📝 Blog: [peytoncasper.com](https://peytoncasper.com)
+- 💼 LinkedIn: [in/peytoncasper](https://linkedin.com/in/peytoncasper)
