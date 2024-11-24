@@ -114,12 +114,6 @@ Radar charts for narrative element balance:
 python scripts/visualize_radar_chart.py
 ```
 
-For interactive visualizations (e.g., fine-tuning evolution sliders), use:
-
-```bash
-streamlit run visualizations/interactive_slider_demo/app.py
-```
-
 ## **FAQ**
 
 ### **What APIs do I need?**
