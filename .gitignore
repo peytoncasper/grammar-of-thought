@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# API Keys and Credentials
+*.env
+gemini.json
+.env.local
+.env.*.local
+
+# Project-specific
+data/fine_tuning/*
+!data/fine_tuning/.gitkeep
+data/sample_texts/*
+!data/sample_texts/.gitkeep
+
+# Logs and databases
+*.log
+*.sqlite
+
+data/stylometry/*_classifications.json
