@@ -170,7 +170,10 @@ async def process_books(input_dir: str, output_dir: str, hume_api_key: str):
 if __name__ == "__main__":
     input_directory = 'data/sample_texts'
     output_directory = 'data/emotions'
-    hume_api_key = '0AaQDtnWcJcXADo0lD2vSx1obQCAuuInPeoSjQPOHVEjxtKb'  # Replace with your actual Hume API key
+    hume_api_key = os.environ.get('HUME_API_KEY')
+    
+    if not hume_api_key:
+        raise ValueError("HUME_API_KEY environment variable is not set")
 
     asyncio.run(process_books(input_directory, output_directory, hume_api_key))
     print("Successfully processed all books for emotions")
